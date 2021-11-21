@@ -1,7 +1,26 @@
 # Requirements
+## Introduction
 
-* Capture all the requirements wrt system, module, interface, integration, testing, Functional and Non-functional
-* Captures Basic Planning of the project through - Sample Gantt Chart attached
+### What is Ticket Reservation System?
 
-* Tools: MS Excel, MS word or Similar
+### Bus Details
+#### Sleeper/Non_Sleeper Bus 
 
+#### AC/Non_AC Bus
+
+#### Single_Deck/Double_Decker Bus
+
+### Trip Details
+#### Start Point of Journey
+
+#### Stops in the Journey 
+
+#### End Point of Journey
+
+#### Charges of Tickets
+
+### Bus Ticket Booking
+
+### Bus Ticket Canceling
+
+### Bus Status Board
