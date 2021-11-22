@@ -1,4 +1,3 @@
-//BROUGHT TO YOU BY code-projects.org//
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
