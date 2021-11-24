@@ -11,3 +11,12 @@
 | unity  | All unity files                              |
 | test   | All source code and data for testing purpose |
 | build  | Build output          |
+
+---
+
+## Login Page Details Of Bus Ticket Reservation System
+
+---
+
+### User Name: user
+### Password: pass
