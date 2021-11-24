@@ -12,10 +12,7 @@
 ![Codiga Badge](https://api.codiga.io/project/29947/status/svg)
 
 ## Cpp Check
-[![Code Quality - Static Code - Cppcheck](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/c-cpp.yml)
-
-## A
-[![Code Quality - Static Code - Cppcheck](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/c-cpp.yml)
+[![Code Quality - Static Code - Cppcheck](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/cppcheck.yml)
 
 ---
 
