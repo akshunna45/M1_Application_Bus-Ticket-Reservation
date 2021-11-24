@@ -4,7 +4,7 @@
 
 | **Test ID** | **Description**                                         | **Exp I/P** | **Exp O/P**   | **Actual Out** |**Type Of Test**  |    
 |-------------|---------------------------------------------------------|-------------|---------------|----------------|------------------|
-|  H_01       | Details Enter By Admin For Bus & Route                  | Total Data  | Data Stored   | Explored Data  | Requirement Based|
+|  H_01       | Details Enter By Admin For Bus & Route                  | Total Data  | Data Stored   | Data Stored    | Requirement Based|
 |  H_02       | Collect Total Number Of Buses Ready To Go               | 1           | 5             | 5              | Scenario Based   |
 |  H_03       | Collect Both Bus And Route Details                      | 1           | 5 Lines Detail| 5 Lines Detail | Scenario Based   |
 |  H_04       | When User Wants To Book The Tickets                     | 2           | Make Payment  | Make Payment   | Scenario Based   |
@@ -17,11 +17,16 @@
 
 ## Table no: Low level test plan
 
-| **Test ID** | **Description**                                              | **Exp IN** | **Exp OUT** | **Actual Out** |**Type Of Test**  |    
-|-------------|--------------------------------------------------------------|------------|-------------|----------------|------------------|
-|  L_01       |--------------------------------------------------------------|  ------------|-------------|----------------|Requirement based |
-|  L_02       |--------------------------------------------------------------|  ------------|-------------|----------------|Scenario based    |
-|  L_03       |--------------------------------------------------------------|  ------------|-------------|----------------|Boundary based    |
+| **Test ID** | **Description**                                         | **Exp I/P** | **Exp O/P**   | **Actual Out** |**Type Of Test**  |    
+|-------------|---------------------------------------------------------|-------------|---------------|----------------|------------------|
+|  L_01       | When System Open And Ask Login Details                  | User Name & | Welcome       | Welcome        | Requirement Based|
+|             |                                                         | Password    |               |                |                  |
+|  L_02       | Ticket Booking                                          | Bus No. &   | Pay Money     | Pay Money      | Scenario Based   |
+|             |                                                         |   Seat No.  | Ticket Booked | Ticket Booked  |                  |
+|  L_03       | Ticket Canceling                                        | Bus No. &   | Get Refund    | Get Refund     | Scenario Based   |
+|             |                                                         |   Seat No.  | Ticket Cancel | Ticket Cancel  |                  |
+|  L_04       | When User Select A Bus In Which All Seats Are Full      |             | Seats         | Seats          | Boundary based   |
+|             |                                                         |             | Unavailable   | Unavailable    |                  |
 
 
 # Output
