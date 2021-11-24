@@ -12,8 +12,8 @@
 #include "stdlib.h"
 #include "string.h"
 
-#include 'D:/a/M1_Application_Bus-Ticket-Reservation/M1_Application_Bus-Ticket-Reservation/3_Implementation/inc/read_number.h'
-#include 'D:/a/M1_Application_Bus-Ticket-Reservation/M1_Application_Bus-Ticket-Reservation/3_Implementation/inc/read_name.h'
+#include "read_number.h"
+#include "read_name.h"
 
 /* All the details stored about buses and routes */
 char ch[100][500]=
