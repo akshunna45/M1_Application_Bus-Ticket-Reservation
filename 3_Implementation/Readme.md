@@ -1,9 +1,13 @@
 # Implementation
 
 ## Folder Structure
-Folder        | description
---------------| ----------------------------------------------
-`inc`         | All header files
-`src`         | Main source code for calculator
-`test`        | All source code and data for testing purposes
-`build`       | Build output (Not included in git)
+
+---
+
+| Folder | Description                                  |
+| ------ | -------------------------------------------- |
+| inc    | All headers files                            |
+| src    | Main source code                             |
+| unity  | All unity files                              |
+| test   | All source code and data for testing purpose |
+| build  | Build output (not included in git)           |
