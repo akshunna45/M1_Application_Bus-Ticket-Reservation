@@ -20,7 +20,7 @@
 
 ---
 
-TBD
+A Bus Ticket Reservation System allows a potential customer to book and pay for a service directly through a website. That means from the moment a customer decides they want to book a slot for the service to choosing a date, picking a time, and paying for the booking, everything is handled online! It greatly reduces the workload on your staff and removes the opportunity for double-bookings.
 
 ---
 
