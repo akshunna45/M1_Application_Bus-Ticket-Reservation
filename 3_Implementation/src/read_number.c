@@ -9,7 +9,7 @@
  * 
  */
 
-#include "/home/runner/work/M1_Application_Bus-Ticket-Reservation/M1_Application_Bus-Ticket-Reservation/3_Implementation/inc/read_number.h"
+#include 'D:/a/M1_Application_Bus-Ticket-Reservation/M1_Application_Bus-Ticket-Reservation/3_Implementation/inc/read_number.h'
 
 /*for putting the numeric value in the array*/
 int read_number(int trno)
