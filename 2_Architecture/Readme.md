@@ -16,7 +16,7 @@
 
 ## Behavioural Diagram
 
-## 2. Use Case Diagram
+## 1. Use Case Diagram
 
 ---
 
