@@ -9,7 +9,7 @@
  * 
  */
 
-#include "E:\Akshunna\LTTS\Projects\M1_Application_Bus-Ticket-Reservation\3_Implementation\inc\read_name.h"
+#include "#include "/home/runner/work/M1_Application_Bus-Ticket-Reservation/M1_Application_Bus-Ticket-Reservation/3_Implementation/inc/read_name.h""
 
 /*for putting the numeric value in the array*/
 void read_name(int trno)
