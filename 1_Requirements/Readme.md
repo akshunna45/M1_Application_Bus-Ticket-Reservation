@@ -43,11 +43,11 @@
 
 ## Cost and Features and Timeline
 ### Cost
-- TBD
+- In the development of this project there is no major cost include because we didn't implement it on server till now and we also didn't created any eyepleasing user interface for it.
 ### Feature
-- TBD
+- Some important feature of this project is that it is very easy and stable to implement on any old system.
 ### Timeline 
-- TBD
+- Timeline for this project was 10 Days, but we will try to make a beautiful interface for it in future and also try to implement that on server so that user can access it online.
 
 ## SWOT Analysis
 ### Strengths
