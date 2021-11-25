@@ -6,16 +6,16 @@
 ![Codiga Badge](https://api.codiga.io/project/29947/status/svg)
 
 ## Codacy Quality Badge
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/eb690b54b652437cba72ec290ef535f0)](https://www.codacy.com/gh/akshunna45/M1_Application_Bus-Ticket-Reservation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=akshunna45/M1_Application_Bus-Ticket-Reservation&amp;utm_campaign=Badge_Grade)
+![Codacy Badge](https://app.codacy.com/project/badge/Grade/eb690b54b652437cba72ec290ef535f0)](https://www.codacy.com/gh/akshunna45/M1_Application_Bus-Ticket-Reservation/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=akshunna45/M1_Application_Bus-Ticket-Reservation&amp;utm_campaign=Badge_Grade)
 
 ## Codiga Quality Score
 ![Codiga Badge](https://api.codiga.io/project/29947/score/svg)
 
 ## Cpp Check
-[![Code Quality - Static Code - Cppcheck](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/cppcheck.yml)
+![Code Quality - Static Code - Cppcheck](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/cppcheck.yml)
 
 ## Unit Testing
-[![Unit_Testing](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/unit_testing.yml)
+![Unit_Testing](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/unit_testing.yml)
 
 ---
 
@@ -47,4 +47,4 @@ A Bus Ticket Reservation System allows a potential customer to book and pay for 
 
 ---
 
-[![Running Project](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/6_ImagesAndVideos/Running%20Project.gif)
+![Running Project](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/6_ImagesAndVideos/Running%20Project.gif)
