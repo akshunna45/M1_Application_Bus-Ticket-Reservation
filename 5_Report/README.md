@@ -144,27 +144,27 @@ A Bus Ticket Reservation System allows a potential customer to book and pay for 
 
 ### Low Level Design 
 
-### Structural Diagram
+#### Structural Diagram
 
-### 2. Class Diagram
+#### 2. Class Diagram
 
 ![FeaturesLevelStructuralDiagram](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/2_Architecture/structure%20Diagrams/Structural%20Diagram_Class%20Diagram.png)
 
-### Structural Diagram
+#### Structural Diagram
 
-### 3. Component Diagram
+#### 3. Component Diagram
 
 ![FeaturesLevelStructuralDiagram](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/2_Architecture/structure%20Diagrams/Structural%20Diagram_Component%20Diagram.png)
 
-### Behavioural Diagram
+#### Behavioural Diagram
 
-### 2. Activity Diagram
+#### 2. Activity Diagram
 
 ![FeaturesLevelBehaviouralDiagram](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/2_Architecture/behavior%20Diagrams/Behavioral%20Diagram_Activity%20Diagram.png)
 
-### Behavioural Diagram
+#### Behavioural Diagram
 
-### 3. Sequence Diagram
+#### 3. Sequence Diagram
 
 ![FeaturesLevelBehaviouralDiagram](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/2_Architecture/behavior%20Diagrams/Behavioral%20Diagram_Sequence%20Diagram.png)
 
