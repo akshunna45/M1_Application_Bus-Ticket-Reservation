@@ -9,7 +9,7 @@
  * 
  */
 
-#include "read_name.h"
+#include "../inc/read_name.h"
 
 /*for putting the numeric value in the array*/
 void read_name(int trno)
