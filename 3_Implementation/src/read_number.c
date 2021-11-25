@@ -9,7 +9,7 @@
  * 
  */
 
-#include "read_number.h"
+#include "../inc/read_number.h"
 
 /*for putting the numeric value in the array*/
 int read_number(int trno)
