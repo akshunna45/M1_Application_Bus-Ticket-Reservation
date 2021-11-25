@@ -31,11 +31,12 @@ A Bus Ticket Reservation System allows a potential customer to book and pay for 
 
 ---
 
-| Folder            | Description                                  |
-| ----------------- | -------------------------------------------- |
-| 1_Requirements    | Describe about the requirements and research |
-| 2_Design          | Descibe about the design of Project          |
-| 3_Implementation  | All coding related files                     |
-| 4_Testplan        | Test cases                                   |
-| 5_Testplan        | Complete report of project                   |
-| 6_ImagesAndVideos | Images and Videos related to project         |
+| Folder             | Description                                     |
+| ------------------ | ----------------------------------------------- |
+| 1_Requirements     | All the requirements and research about project |
+| 2_Architecture     | All the designing of Project                    |
+| 3_Implementation   | All the coding related files                    |
+| 4_TestPlanAndOutput| All the current possible test cases and outputs |
+| 5_Report           | All the readme.md's merged as a report          |
+| 6_ImagesAndVideos  | All the related images and videos               |
+| 7_Other            | All other files                                 |
