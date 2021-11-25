@@ -26,6 +26,9 @@
 ## Unit Testing
 [![Unit_Testing](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/unit_testing.yml)
 
+## Linux C/C++ CI Build Status
+[![Linux C/C++ CI - Build Status](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/linux_build.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/linux_build.yml)
+
 ## Windows C/C++ CI Build Status
 [![Windows C/C++ CI - Build Status](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/windows_build.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/windows_build.yml)
 
