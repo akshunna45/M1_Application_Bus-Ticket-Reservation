@@ -72,9 +72,9 @@
 -   User should have to open the system and select whatever task he/she want to do and then have to fill all the required details.
 
 ## Detail requirements
-### High Level Requirements:
+### High Level Requirements
 -   This project can be implemented by using c language in both windows and linux os.   
 -   This project will require all the input from user end and then it can perform required tasks on it.                        
-### Low level Requirements:
+### Low level Requirements
 -   The details that user provide as input are fetched from database and then user can perform further tasks on it.
 // For eg. Firstly user search and select the required Bus for a journey and then user input all the values to book a ticket after that he/she can able to cancel the ticket or able to check the bus seats status.
