@@ -1,6 +1,10 @@
-# TEST PLAN:
+# TEST PLAN
+
+---
 
 ## Table no: High level test plan
+
+---
 
 | **Test ID** | **Description**                                         | **Exp I/P** | **Exp O/P**   | **Actual Out** |**Type Of Test**  |    
 |-------------|---------------------------------------------------------|-------------|---------------|----------------|------------------|
@@ -15,8 +19,11 @@
 |  H_07       | When User Wants To Exit From The System                 | 5           | Thank You     | Thank You      | Scenario Based   |
 |  H_08       | When User Not Used Any Of The Given Functions           |             |               |                | Boundary based   |
 
+---
 
 ## Table no: Low level test plan
+
+---
 
 | **Test ID** | **Description**                                         | **Exp I/P** | **Exp O/P**   | **Actual Out** |**Type Of Test**  |    
 |-------------|---------------------------------------------------------|-------------|---------------|----------------|------------------|
@@ -29,10 +36,13 @@
 |  L_04       | When User Select A Bus In Which All Seats Are Full      |             | Seats         | Seats          | Boundary based   |
 |             |                                                         |             | Unavailable   | Unavailable    |                  |
 
+---
 
 # Output
 
-- **Below Output Shows The Login Successful Page**
+---
+
+-   **Below Output Shows The Login Successful Page**
 
 ![output](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/4_TestPlanAndOutput/1.%20Output_Login_Success.png)
 
@@ -44,7 +54,7 @@
 
 ![output](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/4_TestPlanAndOutput/3.%20Output_Bus_Status_Board_Before_Booking.png)
 
-- **Below Output Shows The Bus Status Board After Booking**
+-   **Below Output Shows The Bus Status Board After Booking**
 
 ![output](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/4_TestPlanAndOutput/4.%20Output_Bus_Status_Board_After_Booking.png)
 
