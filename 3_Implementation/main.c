@@ -12,8 +12,8 @@
 #include "stdlib.h"
 #include "string.h"
 
-#include "read_number.h"
-#include "read_name.h"
+#include "./inc/read_number.h"
+#include "./inc/read_name.h"
 
 /* All the details stored about buses and routes */
 char ch[100][500]=
