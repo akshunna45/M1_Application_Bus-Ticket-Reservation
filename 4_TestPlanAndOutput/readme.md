@@ -31,3 +31,23 @@
 
 
 # Output
+
+- **Below Output Shows The Login Successful Page**
+
+![output](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/4_TestPlanAndOutput/1.%20Output_Login_Success.png)
+
+- **Below Output Shows The Bus And Route Detailed List Page**
+
+![output](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/4_TestPlanAndOutput/2.%20Output_Bus_And_Route_Lists.png)
+
+- **Below Output Shows The Bus Status Board Before Booking**
+
+![output](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/4_TestPlanAndOutput/3.%20Output_Bus_Status_Board_Before_Booking.png)
+
+- **Below Output Shows The Bus Status Board After Booking**
+
+![output](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/4_TestPlanAndOutput/4.%20Output_Bus_Status_Board_After_Booking.png)
+
+- **Below Output Shows The Exit Successful Page**
+
+![output](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/4_TestPlanAndOutput/5.%20Output_Exit_Success.png)
