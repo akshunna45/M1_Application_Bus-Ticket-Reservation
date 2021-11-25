@@ -2,7 +2,7 @@
 
 ---
 
-## Codiga Code Grade 
+## Codiga Quality Badge
 ![Codiga Badge](https://api.codiga.io/project/29947/status/svg)
 
 ## Codacy Quality Badge
@@ -11,11 +11,23 @@
 ## Codiga Quality Score
 ![Codiga Badge](https://api.codiga.io/project/29947/score/svg)
 
-## Cpp Check
+## Code Quality Static Code Analysis Cppcheck
 [![Code Quality - Static Code - Cppcheck](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/cppcheck.yml)
+
+## Code Quality Dynamic Code Analysis Valgrind
+[![CodeQuality Dynamic Code Analysis Valgrind](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/valgrind.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/valgrind.yml)
+
+## Contribution Check Git Inspector
+[![Contribution Check - Git Inspector](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/git_inspector.yml)
+
+## Makefile CI
+[![Makefile CI](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/makefile.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/makefile.yml)
 
 ## Unit Testing
 [![Unit_Testing](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/unit_testing.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/unit_testing.yml)
+
+## Windows C/C++ CI Build Status
+[![Windows C/C++ CI - Build Status](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/windows_build.yml/badge.svg)](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/actions/workflows/windows_build.yml)
 
 ---
 
@@ -27,7 +39,7 @@ A Bus Ticket Reservation System allows a potential customer to book and pay for 
 
 ---
 
-## Folder Structure
+## Repository Structure
 
 ---
 
