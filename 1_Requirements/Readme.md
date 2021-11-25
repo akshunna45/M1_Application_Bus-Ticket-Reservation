@@ -63,7 +63,7 @@
 ### Who
 - User who have internet and device can use our system. 
 ### What
--   User can book a bus ticket to any destination.
+- User can book a bus ticket to any destination.
 ### When
 - User can use this automated service anytime 24/7.
 ### Where
