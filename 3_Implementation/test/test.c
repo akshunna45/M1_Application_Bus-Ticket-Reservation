@@ -1,21 +1,19 @@
-#include "unity.h"
-#include <calculator_operations.h>
+#include "./unity/unity.h"
 
 /* Modify these two lines according to the project */
-#include <calculator_operations.h>
-#define PROJECT_NAME    "Calculator"
+#include "./inc/read_number.h"
+#include "./inc/read_name.h"
+#define PROJECT_NAME "Ticket Reservation System"
 
 /* Prototypes for all the test functions */
-void test_add(void);
-void test_add_testcase2(void);
-void test_subtract(void);
-void test_multiply(void);
-void test_divide(void);
-
-/* Required by the unity test framework */
-void setUp(){}
-/* Required by the unity test framework */
-void tearDown(){}
+void bus(void);
+void booking(void);
+void name_number(int, char);
+int read_number(int);
+void read_name(int);
+void status(void);
+void status_1(int);
+void cancel(void); 
 
 /* Start of the application test */
 int main()
@@ -24,45 +22,55 @@ int main()
   UNITY_BEGIN();
 
 /* Run Test functions */
-  RUN_TEST(test_add);
-  RUN_TEST(test_add_testcase2);
-  RUN_TEST(test_subtract);
-  RUN_TEST(test_multiply);
-  RUN_TEST(test_divide);
+  RUN_TEST(test_bus);
+  RUN_TEST(test_booking);
+  RUN_TEST(test_name_number);
+  RUN_TEST(test_read_number);
+  RUN_TEST(test_read_name);
+  RUN_TEST(test_status);
+  RUN_TEST(test_status_1);
+  RUN_TEST(test_cancel);
 
   /* Close the Unity Test Framework */
   return UNITY_END();
 }
 
-/* Write all the test functions */ 
-void test_add(void) {
-  TEST_ASSERT_EQUAL(30, add(10, 20));
-  TEST_ASSERT_EQUAL(-10, add(10, -20));
-  TEST_ASSERT_EQUAL(-30, add(-10, -20));
-  TEST_ASSERT_EQUAL(10, add(-10, 20));
-}
-void test_add_testcase2(void) {
- 
-  /* Dummy fail*/
-  // TEST_ASSERT_EQUAL(1500, add(750, 7500));
-}
-void test_subtract(void) {
-  TEST_ASSERT_EQUAL(-3, subtract(0, 3));
-  
-  /* Dummy fail*/
-  // TEST_ASSERT_EQUAL(1, subtract(1000, 900));
+void test_bus(void)
+{
+
 }
 
-void test_multiply(void) {
-  TEST_ASSERT_EQUAL(0, multiply(1, 0));
-  
-  /* Dummy fail*/
-  // TEST_ASSERT_EQUAL(2, multiply(2, 5));
+void test_booking(void)
+{
+
 }
 
-void test_divide(void) {
-  TEST_ASSERT_EQUAL(0, divide(1, 0));
+void test_name_number(int, char)
+{
+
+}
+
+void test_read_number(int)
+{
+
+}
+
+void test_read_name(int)
+{
+
+}
+
+void test_status(void)
+{
+
+}
+
+void test_status_1(int)
+{
   
-  /* Dummy fail*/
-  // TEST_ASSERT_EQUAL(3, divide(2, 2));
+}
+
+void test_cancel(void)
+{
+  
 }
