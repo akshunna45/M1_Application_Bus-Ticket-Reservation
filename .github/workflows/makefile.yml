@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v2
     
     - name: configure
-      run: ./3_Implementation/main.exe
+      run: make all -C 3_Implementation/
       
     - name: Install dependencies
       run: make
