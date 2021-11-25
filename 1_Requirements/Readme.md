@@ -16,7 +16,7 @@
 - Sleeper Buses are those built with either 2-level or 3-level sleeping bunks, or beds, where passengers can pull a curtain or screen to get a private bed onboard the bus.
 - Non_Sleeper Buses are those built with 2-seated column and 3-seated column in each row.
 #### AC/Non_AC Bus
-- AC Bus is one kind of bus type that is very comfortable for any kind of journeys. AC buses have the facilities like Push-Back & Water Bottle Holdings etc. Some of the AC buses may have Mobile Charges Facility.
+-   AC Bus is one kind of bus type that is very comfortable for any kind of journeys. AC buses have the facilities like Push-Back & Water Bottle Holdings etc. Some of the AC buses may have Mobile Charges Facility.
 - Non_AC Bus is one kind of bus type that is more convenient for the Traveler when they are doing long journeys. Non_AC buses also have the facilities like Push-Back & Water Bottle Holdings etc. Some of the Non_AC buses may also have Mobile Charges Facility.
 #### Single_Decker/Double_Decker Bus
 -   A single_Decker Bus is a bus that has a single deck for passengers. Normally the use of the term single decker refers to a standard two-axled rigid bus.
@@ -43,7 +43,7 @@
 
 ## Cost and Features and Timeline
 ### Cost
-- In the development of this project there is no major cost include because we didn't implement it on server till now and we also didn't created any eyepleasing user interface for it.
+-   In the development of this project there is no major cost include because we didn't implement it on server till now and we also didn't created any eyepleasing user interface for it.
 ### Feature
 - Some important feature of this project is that it is very easy and stable to implement on any old system.
 ### Timeline 
@@ -73,8 +73,8 @@
 
 ## Detail requirements
 ### High Level Requirements:
-- This project can be implemented by using c language in both windows and linux os.   
+-   This project can be implemented by using c language in both windows and linux os.   
 - This project will require all the input from user end and then it can perform required tasks on it.                        
 ### Low level Requirements:
-- The details that user provide as input are fetched from database and then user can perform further tasks on it.
+-   The details that user provide as input are fetched from database and then user can perform further tasks on it.
 // For eg. Firstly user search and select the required Bus for a journey and then user input all the values to book a ticket after that he/she can able to cancel the ticket or able to check the bus seats status.
