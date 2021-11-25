@@ -47,4 +47,4 @@ A Bus Ticket Reservation System allows a potential customer to book and pay for 
 
 ---
 
-https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/6_ImagesAndVideos/Running%20Project.gif
+[![Running Project](https://github.com/akshunna45/M1_Application_Bus-Ticket-Reservation/blob/main/6_ImagesAndVideos/Running%20Project.gif)
